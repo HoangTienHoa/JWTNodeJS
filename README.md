@@ -2,7 +2,6 @@
  This project apply JWT for registry new user, create token, login, re-create token base on refresh token and delete token.
 # Run Project
 ````
-	npm init -y
 	npm i
 	node authServer.js
 	node resourceServer.js
